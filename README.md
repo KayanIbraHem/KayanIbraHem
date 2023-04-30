@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahem Mossad</h1>
 <h3 align="center">Backend Developer [PHP-Laravel]</h3>
 
-- 🔭 I’m currently working on **School Management System**
-
-- 🌱 I’m currently learning **nodejs**
-
 - 📫 How to reach me **kioibrahemmossad@gmail.com**
 
 - ⚡ Fun fact **I think I learn quickly**
