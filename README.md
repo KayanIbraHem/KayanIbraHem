@@ -1,20 +1,14 @@
-# My GitHub Profile
+<h1 align="center">Hi 👋, I'm Ibrahem Mossad</h1>
+<h3 align="center">Backend Developer [PHP-Laravel]</h3>
 
-I am a software engineer with a passion for learning new things. I am proficient in the following technologies:
+- 📫 How to reach me **kioibrahemmossad@gmail.com**
 
-* CSS
-* PHP
-* MySQL
-* Docker
+- ⚡ Fun fact **I think I learn quickly**
 
-I am always looking for new opportunities to learn and grow. I am also a teacher and I run a YouTube channel called Tarmeez Academy. You can find me on Twitter and Medium.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kayan-ibrahem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayan-ibrahem" height="30" width="40" /></a>
+</p>
 
-[Image of me]
-
-<video src="https://user-images.githubusercontent.com/123456789/123456789.mp4" controls></video>
-
-**Contact me:**
-
-* Twitter: @Yarhmm
-* Medium: https://medium.com/@yarobalmostafa
-* YouTube: Tarmeez Academy
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
